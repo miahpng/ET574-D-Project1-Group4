@@ -1,0 +1,8 @@
+
+Issue ID,Task,Assigned To,Status,Related Commit ID,Notes
+1,Create parallel-list data storage,Jeremiah,Closed,,Created the four session lists
+2,Implement session management,Jeremiah,Closed,,Added functions in tracker.py
+3,Implement menu system,Jeremiah,Closed,,Added the menu in main.py
+4,Test program features,Jeremiah,Open,,Run and document feature tests
+5,Write project documentation,Jeremiah,Open,,Document setup and usage
+6,Prepare submission evidence,Jeremiah,Open,,Capture required screenshots
